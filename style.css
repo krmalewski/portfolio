@@ -3,7 +3,8 @@
   width:100%;
   position: fixed;
   z-index: -1;
-  background-color: #F4F4F4;
+/*  background-color: #F4F4F4;*/
+  background-color: white;
 }
 
 #background-image img {
@@ -123,38 +124,6 @@ h3 {
   padding-right: 50px;
 }
 
-/*#k:hover {
-  color: #C0B283;
-}
-
-#r:hover {
-  color: #C0B283;
-}
-
-#y1:hover {
-  color: #DCD0C0;
-}
-
-#s:hover {
-  color: #C0B283;
-}
-
-#t:hover {
-  color: #DCD0C0;
-}
-
-#y2:hover {
-  color: #DCD0C0;
-}
-
-#n:hover {
-  color: #C0B283;
-}
-
-#a:hover {
-  color: #DCD0C0;
-}*/
-
 h2 {
   text-align: right;
   margin: 0;
@@ -170,7 +139,8 @@ h2 {
 }
 
 .projects-container {
-  background-color: #F4F4F4;
+/*  background-color: #F4F4F4;*/
+  background-color: white;
   font-family: 'Open Sans', sans-serif;
   margin-top: 200px;
   border-top: 1px solid #373737;
