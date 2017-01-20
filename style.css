@@ -3,7 +3,6 @@
   width:100%;
   position: fixed;
   z-index: -1;
-/*  background-color: #F4F4F4;*/
   background-color: white;
 }
 
@@ -18,8 +17,6 @@ body {
 }
 
 header {
-/*  background-color: black;*/
-/*  background-color: #373737;*/
   background-color: #DCD0C0;
   position: fixed;
   height: 70px;
@@ -31,7 +28,6 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-/*  box-shadow: 0 2px 2px gray;*/
 }
 
 .header-div {

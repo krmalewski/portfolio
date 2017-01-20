@@ -45,7 +45,7 @@ $(() => {
 
   email.on('mouseout', function() {
     email.removeClass('animated');
-    email.removeClass('rubberBand')
+    email.removeClass('rubberBanbd')
   })
 
   linkedIn.on('mouseenter', function() {
