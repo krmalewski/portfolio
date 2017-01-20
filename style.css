@@ -78,8 +78,6 @@ header {
 }
 
 .name1 {
-/*  font-family: 'Anton', sans-serif;
-  font-family: 'Pacifico', cursive;*/
   font-family: 'Sacramento', cursive;
 }
 
@@ -92,7 +90,6 @@ h3 {
 }
 
 .about-me-container {
-/*  background-color: black;*/
   background-color: #373737;
   color: white;
   width: 100%;
@@ -103,14 +100,7 @@ h3 {
   justify-content: flex-end;
 }
 
-/*#picture img{
-  height: 100%;
-  align-self: flex-end;
-  margin-top: 33%;
-}*/
-
 #about-me-info {
-/*  font-family: 'Open Sans', sans-serif;*/
   font-family: 'Quicksand', sans-serif;
   display: flex;
   flex-direction: column;
@@ -136,7 +126,6 @@ h2 {
 }
 
 .projects-container {
-/*  background-color: #F4F4F4;*/
   background-color: white;
   font-family: 'Open Sans', sans-serif;
   margin-top: 200px;
@@ -172,14 +161,6 @@ h2 {
   padding-bottom: 50px;
   height: 450px;
 }
-
-/*#mean-girls-section {
-  height: 400px;
-}
-
-#house-section {
-  height: 400px;
-}*/
 
 .project-image {
  width: 70%;
